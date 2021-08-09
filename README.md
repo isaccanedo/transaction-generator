@@ -8,7 +8,7 @@ Generates random valid looking transactions for use as test data. You can contro
 Requires node.js with `npm` and PostgreSQL.
 
 ## Output Format
-The output format is similar to https://github.com/anders94/dump-bitcoin-transactions
+
 ```
 {
   "ins":[
