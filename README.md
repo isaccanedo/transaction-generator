@@ -1,4 +1,4 @@
-# transaction-generator
+## transaction-generator
 Generates random valid looking transactions for use as test data. You can control the:
 
 * Number of inputs (example: from 1 to 3)
